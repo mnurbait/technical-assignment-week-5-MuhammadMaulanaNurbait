@@ -3,6 +3,6 @@
 
 USE CASE : Sebuah ruangan dipasang sensor DHT11 untuk mengetahui perubahan suhu dan kelembaban di ruangan tersebut. 
 Sensor DHT11 akan mendeteksi setiap perubahan suhu dan kelembaban diruangan tersebut, dengan hasil sebagai berikut :
-~ Jika suhu ruangan kurang dari 62 derajat fahrenheit, maka perangkat akan menampilkan notifikasi "Suhu rendah".
-~ Jika suhu ruangan berada di antara 62-86 derajat fahrenheit, maka perangkat akan menampilkan notifikasi "Suhu normal".
-~ Jika suhu ruangan lebih dari 86 derajat fahrenheit, maka perangkat akan menampilkan notifikasi "Suhu tinggi".
+~ Jika suhu ruangan kurang dari 20 derajat celcius, maka perangkat akan menampilkan notifikasi "Suhu rendah".
+~ Jika suhu ruangan berada di antara 20-30 derajat celcius, maka perangkat akan menampilkan notifikasi "Suhu normal".
+~ Jika suhu ruangan lebih dari 30 derajat celcius, maka perangkat akan menampilkan notifikasi "Suhu tinggi".
